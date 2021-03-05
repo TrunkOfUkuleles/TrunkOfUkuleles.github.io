@@ -1,0 +1,705 @@
+html {
+  box-sizing: border-box;
+  display: grid;
+  font-weight: 900;
+  font-size: 15px;
+  color: #73605B;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.07);
+  min-height: calc(100vh + 100px);
+  min-width: 100ch;
+  justify-self: center;
+  margin: auto;
+}
+
+body{
+  overflow-x: hidden;
+  position: relative;
+  min-height: calc(100vh + 100px);;
+  box-sizing: border-box;
+  margin:auto;
+  min-width: 930px;
+  background-color: #8691f3;
+  height:fit-content;
+}
+
+.container{
+  position: relative;
+  top: 0px;
+  grid-template-rows: auto auto 100px;
+  min-width: 700px;
+  width: 100%;
+  height:100%;
+  display: grid;
+  min-height: 100vh;
+  justify-content: center;
+  
+}
+
+.header{
+  position: relative;
+  top: 0px;
+  max-width: 930px;
+  min-width: 500px;
+  height: 150px;
+  align-content: center;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background-color: rgb(110, 32, 236);
+}
+
+.feel-header  {
+  grid-template-columns: 50% 30% auto;
+  justify-content:center;
+}
+
+.home-header{
+  grid-template-columns: 50% 30% auto;
+}
+
+h1 .home-header {
+  text-justify: right;
+}
+.login-header{
+  grid-template-columns: 50% 30% auto;
+}
+ .register-header{
+  position: relative;
+  top: 0px;
+  max-width: 930px;
+  min-width: 500px;
+  height: 150px;
+  align-content: center;
+  display: grid;
+  background-color: rgb(110, 32, 236);
+  grid-template-columns: 40% auto auto;
+}
+
+.header-logo{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  justify-content: right;
+  align-self: center;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.home-header{
+  text-justify: ;
+}
+
+.about-header{
+  grid-template-columns: 30% auto auto auto;
+}
+
+ .header-text{
+  margin-right: auto;
+  text-justify: left;
+  text-align: center;
+
+}
+
+main {
+  max-width: 930px;
+  min-width: 700px; 
+  margin: auto;
+  min-height: calc(100vh - 150px);
+  display: grid;
+  background-color: #f9d7ff;
+  justify-content: center;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-template-rows: auto auto 100px;
+  border-left: 1px solid  #0E23E9;
+  border-right: 1px solid #0E23E9;
+}
+
+.about-text{
+  position: relative;
+  display: grid;
+  align-content: center;
+
+}
+
+#about-title{
+  justify-self: center;
+}
+
+#about-box{
+  max-width:600px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login-text main{
+  position: relative;
+  justify-self: center;
+}
+
+.login-title{
+  margin-top:20px;
+  align-content: center;
+  justify-content: center;
+  display: grid;
+  
+}
+
+
+
+
+.footer{
+  position: relative;
+  align-content: center;
+  height:100px;
+  bottom: 0px;
+  background-color:rgb(110, 32, 236);
+  margin: 0 -9999rem;
+  padding: 0.25rem 9999rem;
+  max-width: 930px;
+  min-width: 700px;
+}
+
+.footer-contain{
+
+  margin-left: 25px;
+  height: 100%;
+  display: grid;
+  justify-content: center;
+  align-content: top;
+  color: black;
+  
+}
+
+.link-box{
+  color: black;
+  height:90px;
+  display: inline-block;
+  bottom: 10px;
+
+}
+
+.footer-logo{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+
+h1{
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px 4px #253438;
+  font-size: 35pt;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  text-justify: left;
+  color: #9aa2f0;
+}
+
+.titles{
+  color:#2b212e;
+}
+h2{
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14pt;
+  color:  #2b212e;
+  margin-bottom: 10px;
+}
+h3{
+  font-family:  Helvetica, sans-serif;
+  font-size: 14pt;
+  color: rgb(51, 32, 83);
+  text-transform: lowercase;
+  margin:auto;
+}
+h4{
+  text-align: center;
+  color: white;
+  font-size: 18pt;
+  padding: 10px;
+}
+
+
+a{
+  text-decoration: none;
+  color: rgb(51, 32, 83);
+  transition: color 0.3s ease;
+}
+a:hover{
+  color:  rgb(252, 174, 5)
+}
+
+.proWrap a:hover{
+  color: black
+}
+
+b{
+  height: 1rem;
+  width: auto;
+  font-style: bold;
+  padding-left: 5px;
+  color:rgb(110, 32, 236);
+}
+
+.lv2{
+  font-size: 20px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-left: auto;
+  justify-content: center;
+}
+
+.lv2 h2{
+  grid-column-start: 2;
+}
+
+.yourwrapper{
+  display: inline-block;
+  
+ 
+}
+
+#feel-section{
+  width: 100%;
+  max-width: 930px;
+  min-height: calc(70vh);
+}
+
+#feel-form{
+  margin:auto;
+  min-height:300px;
+  max-width: 400px;
+}
+
+#feel-fields{
+  min-height: 200px;
+  max-width: 350px;
+  display:grid;
+  margin: auto;
+  grid-template-rows: auto 20px 25px 50px 40px auto;
+  padding-left: 70px;
+  padding-right: 70px;
+  align-content: center;
+
+}
+
+#intro{
+  justify-content: center;
+  min-height: fit-content;
+  display: grid;
+  padding: 30px;
+  top: 10px;
+
+}
+
+#staff-flow{
+  justify-content: center;
+  display: grid;
+  min-height: 200px;
+  max-width: 930px;
+  min-width: 700px;
+}
+
+#staffWrapper{
+  position: relative;
+  height: 100%;
+  display: block;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  max-width: 930px;
+  padding-top: 20px;
+}
+
+.staff-card{
+  margin:auto;
+  justify-content: center;
+  display: grid;
+}
+
+.staffcard-text{
+  display: grid;
+  margin: auto;
+}
+
+.staffer-text{
+  justify-self: center;
+  color:#231127
+}
+ 
+
+.staffer-pic{
+  justify-self: center;
+  border-radius: 50%;
+  width: 175px;
+  height: 175px;
+}
+
+.nav{
+  background-color: rgb(110, 32, 236);
+  position: sticky;
+  bottom: 0px;
+  margin: 0 -9999rem;
+  padding: 0.25rem 9999rem;
+  height: 100px;
+  min-width: 930;
+  align-content: center;
+ 
+}
+
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.navWrap{
+position: relative;
+max-width: 930px; 
+box-sizing: border-box;
+display: grid;
+z-index: 1;
+height: 100%;
+grid-template-columns: 75% 25%;
+
+}
+
+#profile{
+  justify-self: center;
+  justify-content: center;
+  display: grid;
+
+  width: 100%;
+  padding-top: 10px;
+}
+
+#profileCard{
+  position: relative;
+  display: grid;
+  justify-self: center;
+  justify-content: center;
+  top: 10px;
+  max-height: fit-content;
+  grid-template-rows: auto auto auto;
+  color: #363237;
+
+}
+
+.profileInfo{
+  position: relative;
+  display: grid;
+  justify-self: center;
+  margin-bottom: 10px;
+
+}
+
+.picWrap{
+  position: relative;
+  display: grid;
+  justify-content: center;
+}
+
+#profilePic{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin: auto;;
+}
+.buttWrap{
+  position: relative;
+  display: grid;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+#logoutButton{
+  margin: auto;
+  max-width: 70px;
+  position: relative;
+}
+
+#profileSwitch{
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    font-size: 20px;
+  }
+
+
+  .profileButton{
+
+    margin: auto;
+    padding: 20pz;
+    align-content: center;
+    font-size: 20px;
+  }
+
+  .proWrap{
+    position: relative;
+    height:70px;
+    width: 100px;
+    justify-content: center;
+    display: grid;
+  }
+  
+
+  .navBox{
+    position: relative;
+    min-width: 920px;
+    height: 100%;
+    margin: auto;
+    display: grid;
+    left:10px;
+    justify-content: left;
+    align-content: center;
+    box-sizing: content-box;
+    grid-template-columns: auto auto auto 60%;
+    
+  }
+
+  .navBox li{
+    margin-right: 15px;
+    display: inline-block;
+  }
+  nav ul li {
+
+    display: grid;
+    padding-right: 10px;
+  }
+
+  nav a{
+    color: rgb(173, 129, 245);
+  }
+
+  .profileButton a{
+    color: rgb(173, 129, 245);
+  }
+  
+ 
+
+  .proWrap:hover{
+    background-color:  rgb(252, 174, 5);
+  }
+   .profileButton a:hover{
+    color: black;
+  }
+  .loginButton a{
+    color: rgb(173, 129, 245);
+  }
+
+  #picWrapper{
+    display: grid;
+    align-content: center;
+    justify-self: center;
+  }
+
+  #nav-logo {
+    width: 17px;
+  }
+
+  .btn{
+    width: 100px;
+    height: 100px;
+    background-color:  rgb(110, 32, 236);
+    will-change:transform;
+    transition: transform 300ms;
+
+  }
+
+  .btn:hover{
+    background-color:  rgb(252, 174, 5);
+  }
+
+  .feel-text{
+    position: relative;
+    top: 0px;
+    max-width: 930px;
+    height:fit-content;
+    display: grid;;
+    justify-content: center;
+  }
+
+
+
+  #feel-flow{
+    margin: auto;
+    width: 100%;
+    max-width: 930px;
+    background-color:blanchedalmond;
+    
+  }
+
+  .card{
+    max-width: 400px;
+    max-height: 250px;
+    position: relative;
+    margin: auto;
+    margin-bottom:1px;
+    display: grid;
+    border: 2px solid purple;
+    box-sizing: border-box;
+    box-shadow: 20px 3px 20px #3f4d51;
+    background-color: black;
+    overflow: hidden;
+    justify-self: center;
+  }
+
+.majorFeel{
+  margin-top: 4px;
+  font-style: bold;
+  font-size: 20px;
+  display: grid;
+  justify-content: center;
+  color:rgb(51, 32, 83);
+}
+
+.minorTags{
+  font-size: 14px;
+  font-style: italic;
+  display: grid;
+  justify-content: center;
+  color:rgb(51, 32, 83);
+}
+
+.thoughts{
+  color:rgb(51, 32, 83);
+}
+
+.cardText{
+  background-color: #A272F0;
+  max-height: 200px;
+  max-width: 250px;
+  margin-top: 75px;
+  opacity: 60%;
+  position: absolute;
+  justify-self: center;
+  padding: 7px;
+  will-change:transform;
+  transition: transform 1200ms;
+}
+
+
+
+.feelsButton{
+  position:absolute;
+  bottom:1rem;
+  right: 1rem;
+}
+ 
+
+
+  .flow-image{
+    position: relative;
+    height: 250px;
+    justify-self: center;
+    margin:auto;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    background-repeat: no-repeat;
+    background-size: auto;
+    box-sizing: border-box;
+    will-change:transform;
+    transition: transform 1200ms;
+  }
+
+  .flow-image:hover{
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+    height: 270px;
+  }
+
+  #login{
+    
+    display:grid;
+    width: 100%;
+    min-height: 100vh;
+    margin: auto;
+    min-width: 450px;
+    box-sizing: border-box;
+    justify-content: center;
+    
+  }
+
+  #login-form{
+    position: relative;
+    top: 100px;
+    height:400px;
+    justify-content: center;
+  }
+
+  #register-form{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    min-height: fit-content;
+    display: grid;
+    max-width: 350px;
+    max-height:220px;
+    justify-self: center;
+  }
+
+  .register-text{
+    min-height: fit-content;
+    display:grid;
+    justify-content: center;
+  }
+
+  .regiWrap{
+    padding: 20px;
+    display: block;
+    margin-top: 70px;
+    margin-bottom: 90px;
+    text-align: center;
+    align-content: center;
+    border-radius: 15%;
+    max-width: 400px;
+    min-height:300px;
+  }
+
+  h3 .regiWrap {
+    text-align: center;
+    margin-top: auto;
+  }
+
+  #register-field{
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+
+
+  }
+
+  #login-field{
+    display: grid;
+    max-width: 500px;
+    min-width: 300px;
+    grid-template-rows: auto auto auto 50px;
+    justify-content: center;
+  }
+
+
+  .enter-field{
+    justify-self: center;
+  }
+
+  #submit-login{
+    height: 50%;
+    width:50%;
+    justify-self: center;
+    align-self: center;
+  }
+
+  #usernameField{
+    
+    padding-top: 10px;
+    max-height:fit-content;
+    width:100%;
+    min-width: 50%;
+  }
+
+  #emailField{
+    width:auto;
+    min-width: 50%
+  }
+
+
