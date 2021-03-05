@@ -7,7 +7,7 @@ var currentUser;
 var profileSwitch = document.getElementById('profileSwitch');
 
 
-var UserProfile = function (username, email, password, profilePic='./media/profileBase.jpg'){
+var UserProfile = function (username, email, password, profilePic='./media/404.jpg'){
     this.username = username;
     this.email = email;
     this.password = password;
@@ -17,8 +17,11 @@ var UserProfile = function (username, email, password, profilePic='./media/profi
 
     usersArray.push(this);
 }              
-  new UserProfile('user1', 'testaccount@me.com', 'password');
-  new UserProfile('user2', 'testaccount2@me.com', 'password');
+  new UserProfile('bob', 'bob@me.com', 'pass', './media/profile1.jpg');
+  new UserProfile('steve', 'steve@me.com', 'pass','./media/profile2.jpg');
+  new UserProfile('jen', 'jen@me.com', 'pass','./media/profile3.jpg');
+  new UserProfile('devon', 'devon@me.com', 'pass','./media/profile4.jpg');
+  new UserProfile('admin','admin@me.com','pass','./media/staff1.jpg');
 //handlers
 
 var createNewUserHandler = function(e){
@@ -71,7 +74,7 @@ var userNotFound = function(){
   };
 
   var checkSet = function() {
-      if (!localStorage.getItem('users')) {
+      if (localStorage.getItem('users')) {
         usersArray = JSON.parse(localStorage.getItem('users'));
       }
 
