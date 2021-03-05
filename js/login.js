@@ -3,11 +3,7 @@
 const loginButton = document.getElementById("submit-login");
 const loginField = document.getElementById("login-form");
 var usersArray = [];
-var currentUser={username:'admin';
-                email: 'admin@admin.com',
-                 
-                };
-var allFeelsArray=[];
+var currentUser;
 var profileSwitch = document.getElementById('profileSwitch');
 
 
@@ -49,8 +45,8 @@ loginButton.addEventListener('click', (e) => {
     if (localStorage.getItem('users')){
         for (let i in usersArray){
             if (email === usersArray[i].email && password === usersArray[i].password){
-                alert("You have successfully logged in.");
                 currentUser = usersArray[i];
+                alert("You have successfully logged in.");
                 console.log(usersArray[i]);
                 console.log(currentUser);
                 localStorage.setItem('current-user', JSON.stringify(currentUser));
