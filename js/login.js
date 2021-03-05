@@ -71,7 +71,7 @@ var userNotFound = function(){
   };
 
   var checkSet = function() {
-      if (localStorage.getItem('users')) {
+      if (!localStorage.getItem('users')) {
         usersArray = JSON.parse(localStorage.getItem('users'));
       }
 
