@@ -136,7 +136,6 @@ var UserProfile = function (username, email, password, pic){
 
 
   var checkSet = function() {
-      if(!currentUser)
     if (localStorage.getItem('users')) {
       usersArray = JSON.parse(localStorage.getItem('users'));
     }
