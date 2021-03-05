@@ -67,7 +67,7 @@ var UserProfile = function (username, email, password, pic){
     background.setAttribute('class', 'flow-image');
     background.setAttribute('src', feelCard.image)
     mTags.setAttribute('class', 'minorTags');
-    if(!feelCard.image || feelCard.image==='EMPTY'){
+    if(!feelCard.image || feelCard.image=='EMPTY'){
         background.setAttribute('src', './media/404.jpg')
     }
     
@@ -134,8 +134,7 @@ var UserProfile = function (username, email, password, pic){
   new UserProfile('devon', 'devon@me.com', 'pass','./media/profile4.jpg');
   new UserProfile('admin','admin@me.com','pass','./media/staff1.jpg');
 
-  localStorage.setItem('users', JSON.stringify(usersArray))
-  localStorage.setItem('feels', JSON.stringify(allFeelsArray))
+
 
 
   var checkSet = function() {
