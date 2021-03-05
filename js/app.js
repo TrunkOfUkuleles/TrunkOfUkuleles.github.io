@@ -134,6 +134,9 @@ var UserProfile = function (username, email, password, pic){
   new UserProfile('devon', 'devon@me.com', 'pass','./media/profile4.jpg');
   new UserProfile('admin','admin@me.com','pass','./media/staff1.jpg');
 
+  localStorage.setItem('users', JSON.stringify(usersArray))
+  localStorage.setItem('feels', JSON.stringify(allFeelsArray))
+
 
   var checkSet = function() {
     if (localStorage.getItem('users')) {
