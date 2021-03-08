@@ -45,13 +45,11 @@ loginButton.addEventListener('click', (e) => {
 
     var email = loginField.email.value;
     var password = loginField.password.value;
-    console.log('email: '+ email + ' pass: ' + password);
     if (localStorage.getItem('users')){
         for (let i in usersArray){
-            console.log('array #' + usersArray[i]);
             if (email === usersArray[i].email && password === usersArray[i].password){
-                alert("You have successfully logged in.");
                 currentUser = usersArray[i];
+                alert("You have successfully logged in.");
                 console.log(usersArray[i]);
                 console.log(currentUser);
                 localStorage.setItem('current-user', JSON.stringify(currentUser));
