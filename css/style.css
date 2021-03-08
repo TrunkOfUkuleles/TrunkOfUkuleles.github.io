@@ -1,49 +1,73 @@
 html {
   box-sizing: border-box;
-  display: grid;
   font-weight: 900;
   font-size: 15px;
   color: #73605B;
-  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.07);
-  min-height: calc(100vh + 100px);
-  min-width: 100ch;
-  justify-self: center;
+  justify-content: center;
+  left:0px;
+  top: 0%;
   margin: auto;
 }
 
 body{
   overflow-x: hidden;
+  display: flex;
   position: relative;
-  min-height: calc(100vh + 100px);;
+  min-height: calc(100vh + 100px);
   box-sizing: border-box;
   margin:auto;
   min-width: 930px;
   background-color: #8691f3;
-  height:fit-content;
+  justify-content: center;
+  
+
 }
 
 .container{
   position: relative;
   top: 0px;
-  grid-template-rows: auto auto 100px;
   min-width: 700px;
-  width: 100%;
-  height:100%;
-  display: grid;
-  min-height: 100vh;
-  justify-content: center;
+  flex-basis: 930px;
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh + 100px);
   
 }
 
+h1{
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px 4px #253438;
+  font-size: 35pt;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  text-justify: left;
+  color: #9aa2f0;
+}
+
+
+h2{
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14pt;
+  color:  #2b212e;
+  margin-bottom: 10px;
+}
+h3{
+  font-family:  Helvetica, sans-serif;
+  font-size: 14pt;
+  color: rgb(51, 32, 83);
+  text-transform: lowercase;
+  margin:auto;
+}
+
+
 .header{
-  position: relative;
   top: 0px;
   max-width: 930px;
-  min-width: 500px;
+  min-width: 700px;
   height: 150px;
-  align-content: center;
-  display: grid;
-  grid-template-columns: 50% 50%;
+  display: flex;
   background-color: rgb(110, 32, 236);
 }
 
@@ -52,13 +76,23 @@ body{
   justify-content:center;
 }
 
-.home-header{
-  grid-template-columns: 50% 30% auto;
+
+.header-box {
+  display: flex;
+  flex-grow: 1;
+  align-self: center;
+  text-align: center;
 }
 
-h1 .home-header {
-  text-justify: right;
+.logo-box{
+  justify-content: flex-end;
+  padding-right: 5px;
+} 
+
+.title-box {
+  justify-content: flex-start;
 }
+
 .login-header{
   grid-template-columns: 50% 30% auto;
 }
@@ -76,17 +110,11 @@ h1 .home-header {
 
 .header-logo{
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  justify-content: right;
-  align-self: center;
-  margin-left: auto;
-  margin-right: 10px;
+  max-width: 100px;
+  max-height: 100px;
+
 }
 
-.home-header{
-  text-justify: ;
-}
 
 .about-header{
   grid-template-columns: 30% auto auto auto;
@@ -102,14 +130,10 @@ h1 .home-header {
 main {
   max-width: 930px;
   min-width: 700px; 
-  margin: auto;
-  min-height: calc(100vh - 150px);
-  display: grid;
-  background-color: #f9d7ff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   justify-content: center;
-  grid-row-start: 2;
-  grid-row-end: 3;
-  grid-template-rows: auto auto 100px;
   border-left: 1px solid  #0E23E9;
   border-right: 1px solid #0E23E9;
 }
@@ -185,43 +209,6 @@ main {
   height: 40px;
 }
 
-
-h1{
-  font-family: 'Poppins', Arial, Helvetica, sans-serif;
-  text-shadow: 2px 2px 4px #253438;
-  font-size: 35pt;
-  font-style: oblique;
-  font-weight: bold;
-  text-align: center;
-  text-justify: left;
-  color: #9aa2f0;
-}
-
-.titles{
-  color:#2b212e;
-}
-h2{
-  font-family: 'Poppins', Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  font-size: 14pt;
-  color:  #2b212e;
-  margin-bottom: 10px;
-}
-h3{
-  font-family:  Helvetica, sans-serif;
-  font-size: 14pt;
-  color: rgb(51, 32, 83);
-  text-transform: lowercase;
-  margin:auto;
-}
-h4{
-  text-align: center;
-  color: white;
-  font-size: 18pt;
-  padding: 10px;
-}
-
-
 a{
   text-decoration: none;
   color: rgb(51, 32, 83);
@@ -230,7 +217,9 @@ a{
 a:hover{
   color:  rgb(252, 174, 5)
 }
-
+.titles{
+  color:#2b212e;
+}
 .proWrap a:hover{
   color: black
 }
@@ -285,13 +274,18 @@ b{
 
 }
 
-#intro{
+.intro{
   justify-content: center;
-  min-height: fit-content;
-  display: grid;
-  padding: 30px;
-  top: 10px;
+  min-height: 100px;
+  text-justify: center;
+  display: flex;
+  flex: 1;
+}
 
+.intro .h3 {
+  text-align: center;
+  max-width:400px;
+  text-overflow: unset;
 }
 
 #staff-flow{
@@ -345,6 +339,7 @@ b{
   height: 100px;
   min-width: 930;
   align-content: center;
+  z-index: 2;
  
 }
 
@@ -358,9 +353,10 @@ position: relative;
 max-width: 930px; 
 box-sizing: border-box;
 display: grid;
-z-index: 1;
-height: 100%;
-grid-template-columns: 75% 25%;
+z-index: inherit;
+height: 100px;
+grid-template-columns: 250px 1fr 100px;
+grid-template-rows: 100px;
 
 }
 
@@ -419,27 +415,26 @@ grid-template-columns: 75% 25%;
 }
 
 #profileSwitch{
-    width: auto;
-    height: auto;
-    margin: auto;
     display: grid;
-    justify-content: center;
     font-size: 20px;
+    position: relative;
+    grid-column-start: 3;
   }
 
 
   .profileButton{
 
     margin: auto;
-    padding: 20pz;
+    padding: 20px;
     align-content: center;
     font-size: 20px;
+    color: rgb(252, 174, 5);
   }
 
   .proWrap{
-    position: relative;
     height:70px;
     width: 100px;
+    justify-self: right;
     justify-content: center;
     display: grid;
   }
@@ -447,21 +442,20 @@ grid-template-columns: 75% 25%;
 
   .navBox{
     position: relative;
-    min-width: 920px;
-    height: 100%;
+    grid-area: 1/1/2/2;
+    left:5px;
+    max-width:200px;
+    height: 100px;
     margin: auto;
-    display: grid;
-    left:10px;
-    justify-content: left;
+    display: flex;
     align-content: center;
-    box-sizing: content-box;
-    grid-template-columns: auto auto auto 60%;
     
   }
 
   .navBox li{
-    margin-right: 15px;
-    display: inline-block;
+    align-content: left;
+    flex-grow: 1;
+    flex: 5px space-between;
   }
   nav ul li {
 
@@ -524,61 +518,73 @@ grid-template-columns: 75% 25%;
 
 
   #feel-flow{
-    margin: auto;
-    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     max-width: 930px;
     background-color:blanchedalmond;
     
   }
 
   .card{
-    max-width: 400px;
-    max-height: 250px;
+    width: 400px;
+    height: 250px;
     position: relative;
     margin: auto;
-    margin-bottom:1px;
+    margin-bottom:3px;
     display: grid;
     border: 2px solid purple;
     box-sizing: border-box;
     box-shadow: 20px 3px 20px #3f4d51;
     background-color: black;
     overflow: hidden;
-    justify-self: center;
+    grid-template-columns: 1fr 130px  1fr;
+    grid-template-rows: 1fr 130px 1fr;
+  }
+
+  
+  .cardText{
+    background-color: #A272F0;
+    min-width: 125px;
+    max-width: 130px;
+    opacity: 60%;
+    grid-area: 2/2/3/3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
   }
 
 .majorFeel{
-  margin-top: 4px;
-  font-style: bold;
   font-size: 20px;
   display: grid;
+  flex: 1;
   justify-content: center;
+  align-items: flex-start;
+  padding-top: 1px;
   color:rgb(51, 32, 83);
+  border-bottom: 2px dashed black;
 }
 
 .minorTags{
   font-size: 14px;
+  display: flex;
   font-style: italic;
-  display: grid;
-  justify-content: center;
+  justify-self: center;
+  text-justify: center;
   color:rgb(51, 32, 83);
+
 }
+
 
 .thoughts{
+  font-size: 12px;
   color:rgb(51, 32, 83);
+  display: flex;
+  flex: 1;
 }
 
-.cardText{
-  background-color: #A272F0;
-  max-height: 200px;
-  max-width: 250px;
-  margin-top: 75px;
-  opacity: 60%;
-  position: absolute;
-  justify-self: center;
-  padding: 7px;
-  will-change:transform;
-  transition: transform 1200ms;
-}
+
 
 
 
@@ -593,15 +599,19 @@ grid-template-columns: 75% 25%;
   .flow-image{
     position: relative;
     height: 250px;
-    justify-self: center;
-    margin:auto;
+    max-width: 400px;
+    grid-area: 1 / 1 / 4 / 4;
+    margin-left:auto;
+    margin-right:auto;
     filter: blur(5px);
     -webkit-filter: blur(5px);
+    justify-self: center;
     background-repeat: no-repeat;
     background-size: auto;
     box-sizing: border-box;
     will-change:transform;
     transition: transform 1200ms;
+    z-index: 0;
   }
 
   .flow-image:hover{
@@ -657,7 +667,7 @@ grid-template-columns: 75% 25%;
     min-height:300px;
   }
 
-  h3 .regiWrap {
+  .regiWrap h3 {
     text-align: center;
     margin-top: auto;
   }
@@ -690,7 +700,6 @@ grid-template-columns: 75% 25%;
   }
 
   #usernameField{
-    
     padding-top: 10px;
     max-height:fit-content;
     width:100%;

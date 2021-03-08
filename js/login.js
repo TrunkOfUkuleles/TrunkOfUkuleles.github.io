@@ -7,7 +7,7 @@ var currentUser;
 var profileSwitch = document.getElementById('profileSwitch');
 
 
-var UserProfile = function (username, email, password, profilePic='./media/404.jpg'){
+var UserProfile = function (username, email, password, profilePic='./media/profileBase.jpg'){
     this.username = username;
     this.email = email;
     this.password = password;
@@ -17,11 +17,8 @@ var UserProfile = function (username, email, password, profilePic='./media/404.j
 
     usersArray.push(this);
 }              
-  new UserProfile('bob', 'bob@me.com', 'pass', './media/profile1.jpg');
-  new UserProfile('steve', 'steve@me.com', 'pass','./media/profile2.jpg');
-  new UserProfile('jen', 'jen@me.com', 'pass','./media/profile3.jpg');
-  new UserProfile('devon', 'devon@me.com', 'pass','./media/profile4.jpg');
-  new UserProfile('admin','admin@me.com','pass','./media/staff1.jpg');
+  new UserProfile('user1', 'testaccount@me.com', 'password');
+  new UserProfile('user2', 'testaccount2@me.com', 'password');
 //handlers
 
 var createNewUserHandler = function(e){
@@ -45,11 +42,13 @@ loginButton.addEventListener('click', (e) => {
 
     var email = loginField.email.value;
     var password = loginField.password.value;
+    console.log('email: '+ email + ' pass: ' + password);
     if (localStorage.getItem('users')){
         for (let i in usersArray){
+            console.log('array #' + usersArray[i]);
             if (email === usersArray[i].email && password === usersArray[i].password){
-                currentUser = usersArray[i];
                 alert("You have successfully logged in.");
+                currentUser = usersArray[i];
                 console.log(usersArray[i]);
                 console.log(currentUser);
                 localStorage.setItem('current-user', JSON.stringify(currentUser));

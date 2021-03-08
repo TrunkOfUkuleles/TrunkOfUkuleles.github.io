@@ -67,7 +67,7 @@ var UserProfile = function (username, email, password, pic){
     background.setAttribute('class', 'flow-image');
     background.setAttribute('src', feelCard.image)
     mTags.setAttribute('class', 'minorTags');
-    if(!feelCard.image || feelCard.image=='EMPTY'){
+    if(!feelCard.image || feelCard.image==='EMPTY'){
         background.setAttribute('src', './media/404.jpg')
     }
     
@@ -76,8 +76,8 @@ var UserProfile = function (username, email, password, pic){
     thoughtel.textContent = feelCard.thoughts;
 
     feelingsView.appendChild(fCard);
-    fCard.appendChild(background);
     fCard.appendChild(content);
+    fCard.appendChild(background);
     content.appendChild(mFeel);
     content.appendChild(mTags);
     content.appendChild(thoughtel);
@@ -135,9 +135,8 @@ var UserProfile = function (username, email, password, pic){
   new UserProfile('admin','admin@me.com','pass','./media/staff1.jpg');
 
 
-
-
   var checkSet = function() {
+  
     if (localStorage.getItem('users')) {
       usersArray = JSON.parse(localStorage.getItem('users'));
     }
@@ -150,6 +149,8 @@ var UserProfile = function (username, email, password, pic){
   };
 
   var initialize = function() {
+    var test = {key: true};
+    console.error(test.key)
     checkSet();
     buttonSwitch();
     console.log(usersArray);
