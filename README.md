@@ -6,7 +6,7 @@ This is a thought experiment to come up with ways to address a lack of connectio
 
 
 Next Steps include:
-- adding a liking system(can already filter to see if you posted.
+- adding a liking system(can already filter to see if you posted).
 - being able to generate individual card pages for more info and maybe comments
 
 
