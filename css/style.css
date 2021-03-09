@@ -27,6 +27,7 @@ body{
 .container{
   position: relative;
   top: 0px;
+  width: 930;
   min-width: 700px;
   flex-basis: 930px;
   display: flex;
@@ -130,7 +131,7 @@ main {
   max-width: 930px;
   min-width: 700px; 
   display: flex;
-  justify-content: space-between;
+  align-content: space-between;
   flex-direction: column;
   min-height: 100vh;
   justify-content: center;
@@ -140,6 +141,13 @@ main {
   justify-content: space-between;
   min-height:70vh;
   height: calc(100vh - 150px);
+}
+
+.registration{
+  min-height:80vh;
+  height: calc(100vh - 150px);
+  align-items: center;
+  justify-content: space-between;
 }
 
 .about-text{
@@ -298,10 +306,11 @@ b{
 
 #staff-flow{
   justify-content: center;
+  justify-self: center;
   display: grid;
   min-height: 200px;
   max-width: 930px;
-  min-width: 700px;
+
 }
 
 #staffWrapper{
@@ -309,7 +318,8 @@ b{
   max-width: 930px;
   display: flex;
   flex-basis: 30%;
-
+  justify-content: center;
+  
 }
 
 .staff-card{
@@ -339,12 +349,12 @@ b{
 .nav{
   background-color: rgb(110, 32, 236);
   position: sticky;
-  grid-area: 3/1/4/2;
   bottom: 0px;
   margin: 0 -9999rem;
   padding: 0.25rem 9999rem;
   height: 100px;
-
+  width: 930px;
+  min-width: 700px;
   z-index: 2;
  
 }
@@ -655,36 +665,43 @@ align-items: center;
   #login-form{
     position: relative;
     top: 100px;
-    height:400px;
+    height:250px;
     justify-content: center;
   }
 
+  .el p{
+    
+  }
+
+  .el .enter-field{
+    margin-left: 20px;
+    width:200px;
+  }
+
   #register-form{
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 30px;
     min-height: fit-content;
     display: grid;
     max-width: 350px;
     max-height:220px;
-    justify-self: center;
+    
   }
 
   .register-text{
     min-height: fit-content;
     display:grid;
     justify-content: center;
+   
   }
 
   .regiWrap{
-    padding: 20px;
     display: block;
-    margin-top: 70px;
-    margin-bottom: 90px;
+    padding: 20px;
     text-align: center;
     align-content: center;
     border-radius: 15%;
     max-width: 400px;
-    min-height:300px;
+    border: 3px solid black;
   }
 
   .regiWrap h3 {
@@ -703,14 +720,10 @@ align-items: center;
     display: grid;
     max-width: 500px;
     min-width: 300px;
-    grid-template-rows: auto auto auto 50px;
+    grid-template-rows: auto auto auto auto 50px;
     justify-content: center;
   }
 
-
-  .enter-field{
-    justify-self: center;
-  }
 
   #submit-login{
     height: 50%;
