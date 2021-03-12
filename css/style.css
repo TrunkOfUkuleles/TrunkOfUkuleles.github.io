@@ -384,9 +384,16 @@ position: relative;
 max-width: 930px; 
 z-index: inherit;
 height: 100px;
-justify-content: space-between;
+flex-wrap: wrap;
 align-items: center;
 display: flex;
+}
+
+.navWrap > *:nth-child(1){
+  flex: 1 1 30%;
+}
+.navWrap >*:nth-child(2){
+  flex: 1 1 70%;
 }
 
 .profile-details {
