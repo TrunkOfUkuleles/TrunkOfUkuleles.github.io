@@ -1,0 +1,24 @@
+{
+  "name": "trunkofukuleles.github.io",
+  "version": "1.0.0",
+  "description": "Profile page a la gitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrunkOfUkuleles/TrunkOfUkuleles.github.io.git"
+  },
+  "author": "Julien Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrunkOfUkuleles/TrunkOfUkuleles.github.io/issues"
+  },
+  "homepage": "https://github.com/TrunkOfUkuleles/TrunkOfUkuleles.github.io#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  }
+}
