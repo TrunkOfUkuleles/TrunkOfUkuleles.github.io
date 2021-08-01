@@ -27,14 +27,14 @@
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2Dtyle=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoShop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ### Where I've Been
 I came to programming in a roundabout way. Came out of college armed with an Asian Studies degree, and ended up as a Social Media Marketing Manager. After tripling the size of my department, I took a break freelanmcing while I decidied what I wanted to do outside of the Social Media 'Sphere'. This was the first time I started looking at coding seriously. In my freelance projects I ended up having to update websites, web stores and even launch amazon store pages. My experience coding a little in python (and living with working computer science majors) made it far momre familiar than I was expecteing.
 
