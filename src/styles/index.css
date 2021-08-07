@@ -1,0 +1,33 @@
+
+
+.app-container{
+    display: flex;
+    border: 3px solid black;
+}
+
+.section{
+    max-width: 400ch/6;
+    min-width: 100ch/6;
+}
+
+.s1 {
+    left: 0;
+    border: 2px solid red;
+    z-index: 0;
+}
+
+.s2 {
+
+    border: 2px solid blue;
+    z-index: 1;
+}
+
+.s3 {
+
+    border: 2px solid green;
+    z-index: 2;
+}
+
+.selected{
+    width: max-content;
+}
