@@ -39,11 +39,15 @@ const area1 = () => {
         .query({api_key: `${process.env.REACT_APP_GIPHY_API}`})
         .then((results) => {
             let res = results.body.data
+            console.log("RESULT", res)
             res.forEach(el => {
                 hold.push({ image: el.images.fixed_width.url, id: el.id, title: el.title })
             })
-            setChoiceArray(() => [...hold])
+            setChoiceArray(function(){ return [...hold]})
+            console.log("AFTER", hold, choiceArray)
         })
+        console.log("AFTER2", choiceArray, choiceArray.length)
+
         socket.emit('join', {user: {email: "portfolio@me.com", favorites: [], friends: [], id:666, nickname:'portfolio-window'}, room: "Main Room"})
     },[])
 
@@ -61,12 +65,12 @@ const area1 = () => {
                     filter.forEach(el=> {
                         DATA.set.push({ image: el.images.fixed_width.url, id: el.id, title: el.title})
                     })
-                    setChoiceArray(()=> [...DATA.set])
+                    setChoiceArray(function(){return [...DATA.set]})
                     DATA.set=[]
                     console.log(choiceArray)
                 })
                 .catch(err=> console.error(err))
-        }
+        }   
     }
 
 
@@ -76,12 +80,13 @@ const area1 = () => {
         setInput('')
     }
 
-    const choicesWindow = (data) => {
-        return data.map((el, index) => {
+    function choicesWindow(data){
+        return data.map((el, index) => (
             <div className="gif-prev" key={el.id + index}>
+                {index}
                 <img src={el.image} alt={el.title} id={el.id} onClick={(e) => clicker(e)} />
             </div>
-        })
+        ))
     } 
 
     const messagesEndRef = useRef(null)
@@ -119,6 +124,7 @@ const area1 = () => {
         if(e.key === "Enter") { DATA.handleAPICall() }
     }
 
+
     return (
 
         <div className="chat-container">
@@ -126,6 +132,7 @@ const area1 = () => {
                 {chatWindow}
             </div>
 
+            <div className="search-area">
             <div className="searcher">
                 <div className='search'>
                     <label htmlFor="">
@@ -138,11 +145,9 @@ const area1 = () => {
             <div className="giph-results">
                 {choicesWindow(choiceArray)}
             </div>
+            </div>
         </div>
         
-        // <div className="holder" style={{zIndex: 5}}>
-        //     areaONE
-        // </div>
     )
 }   
 

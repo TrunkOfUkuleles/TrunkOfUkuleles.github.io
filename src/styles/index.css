@@ -20,19 +20,18 @@
 
 .s1 {
     left: 0;
-    background-color: red;
+    background: linear-gradient(#0E297A, #21134E);
     z-index: 0;
+    padding: 40px;
 }
 
 .s2 {
-
     background-color: blue;
     z-index: 1;
     box-shadow:-5px 5px 7px gray;
 }
 
 .s3 {
-
     background-color: green;
     z-index: 2;
     box-shadow:-5px 5px 7px gray;
@@ -43,15 +42,62 @@
 }
 
 .chatty{
-    background-color: purple;
-
+    background-color: white;
+    height: 70%;
+    width: 90%;
+    border-radius: 5px; 
+    box-shadow: 5px 3px 20px 8px #ecf6ff , -5px -3px 4px 8px blue;   
 }
 
-.searcher {
-    background-color:teal;
-
+.searcher{
+    align-self: center;
 }
 
 .chat-container{
-    background-color:magenta;
+    background-color:#ecf6ff;   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow:hidden;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    height: 90%;
+    border-radius: 4px;
 }
+
+.search-area{
+    width: 100%;
+    height:20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    justify-items: center;
+    
+}
+
+.giph-results{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    /* margin-top: 10px; */
+    border: 1px solid white;
+    padding: 10px 0;
+    border-radius: 4px;
+    background-color:#ecf6ff;
+    width: 100%;
+    height: 100%;
+}
+
+.gif-prev {
+    width: 6vw;
+    height: 6vw;
+    margin: 0 7px;
+
+}
+.gif-prev .img {
+        cursor: pointer;
+        width: 100%;
+        height: 100%;
+    }
