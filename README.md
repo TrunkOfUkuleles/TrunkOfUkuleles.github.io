@@ -1,4 +1,5 @@
 
+# About Julien
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -9,7 +10,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material-UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -31,11 +31,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoShop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-
+![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=vscodium&logoColor=white)
 ### Where I've Been
+I have been overseeing Website Design, Marketing, Database Management, Security, E-Commerce Coordination, and Event Coordination for a Multi-Brand Packaging equipment and manufacturing company. While my main stack has not been on any modern platforms, I have used my experience to improve and upgrade aged e-commerce systems to be in line with modern cyber secirity and PCI compliance requirments. 
+
 I came to programming in a roundabout way. Came out of college armed with an Asian Studies degree, and ended up as a Social Media Marketing Manager. After tripling the size of my department, I took a break freelanmcing while I decidied what I wanted to do outside of the Social Media 'Sphere'. This was the first time I started looking at coding seriously. In my freelance projects I ended up having to update websites, web stores and even launch amazon store pages. My experience coding a little in python (and living with working computer science majors) made it far momre familiar than I was expecteing.
 
 From there I took a (slight) left turn into B2B industrial packaging equipment sales. My background in Japanese culture (and my time there) made me a good candidate for a Japanese company launching a new California branch to serve the west coast. This was a lot less directly technical, but did teach me how to apprach understanding a field I have not touched before. I had to quicdkly grasp the capabilities of our products, and the needs of our target market. I had to learn how to translate the actual needs between customers/opperators and our support staff back in Japan. I ended up gowing our US market share of our equipment by about 8%. While I eventually found a certain pride in the work, it was not what I wanted to do the rest of my life.
@@ -59,9 +61,37 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 
 
 ### 🔭 I’m currently working on 
-    - React Native
-    - Wix customization
-    
+    - JS, PHP, HTML, CSS, etc.
+    - Website Platform customization (Squarespace, Wix, Opencart, etc.)
+    - Local AI automation and integration
+    - Linux
+
+### Exploring Interests
+
+| Food                |                                                                                |
+|---------------------|--------------------------------------------------------------------------------|
+| White Castle Burgers|[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                          |
+| Maqloubeh           |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)                          | 
+|                     |[Recepie](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)  |
+
+|Clothes         |                                                                                                                            |
+|----------------|----------------------------------------------------------------------------------------------------------------------------|
+|Wonder Looper   | [OFFICIAL STORE](https://wonderlooper.com/)                                                                                |
+|                | [Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)               |
+|                | [Knit Cap](https://wonderlooper.com/collections/accessories/products/knit-cap-yak-organic-cotton)                          |
+|Quince          | [OFFICIAL STORE](https://www.quince.com/)                                                                                  |
+|                | [Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)             |
+|                | [Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|
+|Boxer Briefs    | Uniqlo? |
+|Socks           | Uniqlo? |
+
+|👀 👀                | Description                | Links                                                                                        |
+|--------------------|----------------------------|----------------------------------------------------------------------------------------------|
+|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                       |
+|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C) |
+|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)        |
+|Keychron Nape.      | Keyboard (~$90)            |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)|
+
 
 <!--
 **TrunkOfUkuleles/TrunkOfUkuleles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
