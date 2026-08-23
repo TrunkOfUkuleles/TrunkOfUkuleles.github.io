@@ -68,11 +68,31 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 
 ### 🌱 Exploring Interests
 
+<details>
+<summary>Food to Try</summary>
+
 | Food                  |                                                                                |
 |-----------------------|--------------------------------------------------------------------------------|
 | White Castle Burgers  |[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                          |
 | Maqloubeh             |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)                          | 
 |                       |[Recipe](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)   |
+
+</details>
+
+<details>
+<summary>Restaurants</summary>
+
+| Restaurant |Location    |Description                                                                                                                                 |score? |
+|--------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------|
+| RVR          | Venice, CA         | Izakaya, Ramen, Cocktails, [SITE](https://www.rvr.la/), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |-      |
+| Kato         | DT Los Angeles, CA | Taiwanese, Seafood, [SITE](https://www.katorestaurant.com/locationandhours), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)|-      |
+| Komal        | DT Los Angeles, CA | Mexican, [SITE](https://www.mercadolapaloma.com/komal), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |A-     |
+| Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      |
+| Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      |
+| Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      |
+ 
+</details>
+
 <details>
 <summary>Clothes</summary>
 
@@ -89,6 +109,9 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 
 </details>
 
+<details>
+<summary>To Buy/ Gift Ideas</summary>
+
 |👀 👀                | Description                | Links                                                                                        |
 |--------------------|----------------------------|----------------------------------------------------------------------------------------------|
 |Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                       |
@@ -96,7 +119,7 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 |Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)        |
 |Keychron Nape.      | Keyboard (~$90)            |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)|
 
-
+</details>
 <!--
 **TrunkOfUkuleles/TrunkOfUkuleles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
