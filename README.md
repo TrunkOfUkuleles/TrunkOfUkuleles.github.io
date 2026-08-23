@@ -97,7 +97,7 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 
 |Clothes  👀     |                                                                                                                                          |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|[Wonder Looper](https://wonderlooper.com/)|[Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)<br />>[Knit Cap](https://wonderlooper.com/collections/accessories/products/knit-cap-yak-organic-cotton)|
+|[Wonder Looper](https://wonderlooper.com/)|[Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)<br />[Knit Cap](https://wonderlooper.com/collections/accessories/products/knit-cap-yak-organic-cotton)|
 |[Quince](https://www.quince.com/)|[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|
 
 </details>
@@ -115,9 +115,7 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 </details>
 <!--
 **TrunkOfUkuleles/TrunkOfUkuleles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -126,4 +124,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ```css
+table {
+  min-width: 80%;
+}
