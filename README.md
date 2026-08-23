@@ -98,12 +98,10 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 
 |Clothes  👀     |                                                                                                                            |
 |----------------|----------------------------------------------------------------------------------------------------------------------------|
-|Wonder Looper   | [OFFICIAL STORE](https://wonderlooper.com/)                                                                                |
+|[Wonder Looper](https://wonderlooper.com/)| [OFFICIAL STORE]                                                                                |
 |                | [Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)               |
 |                | [Knit Cap](https://wonderlooper.com/collections/accessories/products/knit-cap-yak-organic-cotton)                          |
-|<td rowspan="3">Quince</td> [OFFICIAL STORE](https://www.quince.com/)                                                                        |
-| [Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)             |
-| [Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|
+|[Quince](https://www.quince.com/)|[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|
 |Boxer Briefs    | Uniqlo? |
 |Socks           | Uniqlo? |
 
