@@ -127,5 +127,6 @@ Here are some ideas to get you started:
 
 ```css
 table {
-  min-width: 80%;
+  min-width: 80% !important;
 }
+```
