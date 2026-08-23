@@ -125,8 +125,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```css
-table {
-  min-width: 80% !important;
-}
-```
+<style>
+  table {
+    min-width: 80% !important;
+  }
+</style>
