@@ -124,9 +124,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-  table {
-    min-width: 80% !important;
-  }
-</style>
+(setq markdown-css-paths '("src/Style.css"))
