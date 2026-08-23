@@ -66,15 +66,17 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
     - Local AI automation and integration
     - Linux
 
-### Exploring Interests
+### 🌱 Exploring Interests
 
-| Food                |                                                                                |
-|---------------------|--------------------------------------------------------------------------------|
-| White Castle Burgers|[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                          |
-| Maqloubeh           |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)                          | 
-|                     |[Recepie](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)  |
+| Food                  |                                                                                |
+|-----------------------|--------------------------------------------------------------------------------|
+| White Castle Burgers  |[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                          |
+| Maqloubeh             |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)                          | 
+|                       |[Recipe](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)   |
+<details>
+<summary>Clothes</summary>
 
-|Clothes         |                                                                                                                            |
+|Clothes  👀     |                                                                                                                            |
 |----------------|----------------------------------------------------------------------------------------------------------------------------|
 |Wonder Looper   | [OFFICIAL STORE](https://wonderlooper.com/)                                                                                |
 |                | [Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)               |
@@ -84,6 +86,8 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 |                | [Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|
 |Boxer Briefs    | Uniqlo? |
 |Socks           | Uniqlo? |
+
+</details>
 
 |👀 👀                | Description                | Links                                                                                        |
 |--------------------|----------------------------|----------------------------------------------------------------------------------------------|
@@ -106,3 +110,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```css
