@@ -111,10 +111,10 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 |👀 👀                | Description                | Links                                                                                                              |Image|
 |--------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|---|
 |Swingtop Lighter    | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|![lighter](https://craighill.co/cdn/shop/files/Swingtop_Lighter_0803_260707_v2.jpg?v=1786722079&width=160)|
-|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |![]()|
-|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |![]()|
-|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![]()|
-|Keychron Nape.      | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![]()|
+|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |![Rangers Core Set](https://okxleekxriptfrdarxdq.supabase.co/storage/v1/render/image/public/images/games/EAR/0f936ba4-0373-4d5e-84d6-87f5dc6d4f05?width=160&quality=75&resize=contain)|
+|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |![Perfect Edition Set](https://m.media-amazon.com/images/I/71Dj9K2VGgL._AC_UY436_QL65_.jpg)|
+|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![Billy Bat Vol 1](https://m.media-amazon.com/images/I/81GrS9kDKmL._AC_UY436_QL65_.jpg)|
+|Keychron Nape.      | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![Nape](https://www.keychron.com/cdn/shop/files/Keychron-Nape-Pro-Wireless-Trackball-Mouse-Black.png?v=1784538926&width=160)|
 
 </details>
 
