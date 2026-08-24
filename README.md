@@ -1,5 +1,5 @@
 
-# About Julien
+# About Me
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,6 +51,8 @@
       
   Coming from that more customer facing, but still technical field, I transitioned into software development. I dove into fullstack to start to explore the ways our technology can help aid in communication - 
   and my troubleshooting days showing me some ways that technology can still do better. 
+
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TrunkOfUkuleles)](https://github.com/stats-organization/github-stats-extended)
 
 ### My Approach
 
