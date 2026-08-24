@@ -108,14 +108,13 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 <details>
 <summary>To Buy/ Gift Ideas</summary>
 
-|👀 👀                | Description                | Links                                                                                                              |
-|--------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|
-|Swingtop Lighter    | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|
-|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |
-|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |
-|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |
-|Keychron Nape.      | Keyboard (~$90)            |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |
-|Steam Frame         | VR Headset                 | |
+|👀 👀                | Description                | Links                                                                                                              |Image|
+|--------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|---|
+|Swingtop Lighter    | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|![lighter](https://craighill.co/cdn/shop/files/Swingtop_Lighter_0803_260707_v2.jpg?v=1786722079&width=160)|
+|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |![]()|
+|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |![]()|
+|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![]()|
+|Keychron Nape.      | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![]()|
 
 </details>
 
@@ -127,6 +126,7 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 |Probably not for me     |                                                                                                                                                               |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |EUC - Electric Unicycles|[VIDEO](https://www.youtube.com/watch?v=2Dliz9Q767M)<br />[Nosfet Xeno](https://ewheels.com/products/nosfet-xeno-2-200wh-battery-2-200w-motor-20-80-90-14-tire)|
+|Steam Frame VR Headset  |[OFFICIAL SITE](https://store.steampowered.com/sale/steamframe)                                                                                                |
 
 </details>
 <!--
