@@ -35,111 +35,117 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=vscodium&logoColor=white)
-### Where I've Been
-  I have been overseeing Website Design, Marketing, Database Management, Security, E-Commerce Coordination, and Event Coordination for a international, multi-brand packaging equipment and manufacturing company. While my main stack has not been on modern platforms, I have used my experience to improve and upgrade aged e-commerce systems to be in line with modern cyber secirity and PCI compliance requirments. 
+## Where I've Been
+  I have been overseeing Website Design, Marketing, Database Management, Security, E-Commerce Coordination, and Event Coordination for a international, multi-brand packaging equipment and manufacturing company. 
+  While my main stack has not been on modern platforms, I have used my experience to improve and upgrade aged e-commerce systems to be in line with modern cyber secirity and PCI compliance requirments. 
 
-  I came to programming in a roundabout way. Came out of college armed with an Asian Studies degree, and ended up as a Social Media Marketing Manager for a larger Internet Marketing company. After tripling the size of my department in the first year, I took a break freelanmcing while I decidied what I wanted to do outside of the Social Media marketing 'Sphere'. This was the first time I started looking at coding seriously. In my freelance projects I ended up having to update websites, E-Commerce platforms, and even launch amazon store pages. My experience coding briefly in python during college (and living with working computer science majors) made it far momre familiar than I was expecteing.
+  I came to programming in a roundabout way. Came out of college armed with an Asian Studies degree, and ended up as a Social Media Marketing Manager for a larger Internet Marketing company. After tripling 
+  the size of my department in the first year, I took a break freelanmcing while I decidied what I wanted to do outside of the Social Media marketing 'Sphere'. This was the first time I started looking at 
+  coding seriously. In my freelance projects I ended up having to update websites, E-Commerce platforms, and even launch amazon store pages. My experience coding briefly in python during college (and living 
+  with working computer science majors) made it far momre familiar than I was expecteing.
 
-  From there I took a (slight) left turn into B2B industrial packaging equipment sales. My background in Japanese culture (and my time there) made me a good candidate for a Japanese company launching a new California branch to serve the west coast. This was a lot less directly technical, but did teach me how to apprach understanding a field I had not touched before. I had to quicdkly grasp the capabilities of our products, and the needs of our target market. I had to learn how to translate the actual needs between customers/opperators and our support staff back in Japan. I ended up gowing our US market share of our equipment by about 8%. While I eventually found a certain pride in the work, it was not what I wanted to do the rest of my life.
+  From there I took a (slight) left turn into B2B industrial packaging equipment sales. My background in Japanese culture (and my time there) made me a good candidate for a Japanese company launching a new 
+  California branch to serve the west coast. This was a lot less directly technical, but did teach me how to apprach understanding a field I had not touched before. I had to quicdkly grasp the capabilities 
+  of our products, and the needs of our target market. I had to learn how to translate the actual needs between customers/opperators and our support staff back in Japan. I ended up gowing our US market share 
+  of our equipment by about 8%. While I eventually found a certain pride in the work, it was not what I wanted to do the rest of my life.
       
-  Coming from that more customer facing, but still technical field, I transitioned into software development. I dove into fullstack to start to explore the ways our technology can help aid in communication - and my troubleshooting days showing me some ways that technology can still do better. 
-
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TrunkOfUkuleles)](https://github.com/stats-organization/github-stats-extended)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrunkOfUkuleles&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  Coming from that more customer facing, but still technical field, I transitioned into software development. I dove into fullstack to start to explore the ways our technology can help aid in communication - 
+  and my troubleshooting days showing me some ways that technology can still do better. 
 
 ### My Approach
 
-Coming from a non-traditional background, I try and leverage the strengths I have built to better drive my work. I keep in mind the ideal of the product for the customer. What they would want, and how it would be served to them. That sort of forethought is what made me such a good fit for fullstack development. The independence afforded me as a salesman taught me to be self sufficient and look for creative solutions, but my time managing a team helped inform my need to keep a team updated and informed as we progress. 
+  Coming from a non-traditional background, I try and leverage the strengths I have built to better drive my work. I keep in mind the ideal of the product for the customer. What they would want, and how it 
+  would be served to them. That sort of forethought is what made me such a good fit for fullstack development. The independence afforded me as a salesman taught me to be self sufficient and look for creative 
+  solutions, but my time managing a team helped inform my need to keep a team updated and informed as we progress. 
 
 ### Looking for
 
-I am open to interesting projects in the Los Angeles area.
+  I am open to interesting projects in the Los Angeles area.
 
 ### 🔭 I’m currently working with
-    - Basic Web design: JS, PHP, HTML, CSS, etc.
-    - Website Platform customization (Squarespace, Wix, Opencart, etc.)
-    - Local AI automation and integration
-    - Linux OS / Server management
+  - Basic Web design: JS, PHP, HTML, CSS, etc.
+  - Website Platform customization (Squarespace, Wix, Opencart, etc.)
+  - Local AI automation and integration
+  - Linux OS / Server management
 
 ### Other Projects
-    - Home Secuirty
-      - [x] Proxmox
-      - [ ] Opnsense
-      - [x] Ad Guard / Pie Hole
-      - [ ] Alexa --> Home Assistant [Zigby / Matter?]
+  - Home Secuirty
+    - [x] Proxmox
+    - [ ] Opnsense
+    - [x] Ad Guard / Pie Hole
+    - [ ] Alexa --> Home Assistant [Zigby / Matter?]
 
-    - 3D Printing
-      - [x] FDM Printer (Elegoo)
-      - [x] Orca Slicer
-      - [x] OpnCad
-      - [ ] Scanner?
-      - [ ] Mask Cover Mount
-        - [ ] Scan Models, Clean up
-        - [ ] Practice Joinery
+  - 3D Printing
+    - [x] FDM Printer (Elegoo)
+    - [x] Orca Slicer
+    - [x] OpnCad
+    - [ ] Scanner?
+    - [ ] Mask Cover Mount
+      - [ ] Scan Models, Clean up
+      - [ ] Practice Joinery
 
 
 ### 🌱 Exploring Interests
 
 <details>
-<summary>Food to Try</summary>
+  <summary>Food to Try</summary>
 
-| Food                  |                                                                                                                                         |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| White Castle Burgers  |[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                                                                                   |
-| Maqloubeh             |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)<br />[Recipe](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)|
-| Cherry  Soda          |[Youtube](https://www.youtube.com/watch?v=mYqPnMD8_04)|
+  | Food                  |                                                                                                                                         |
+  |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+  | White Castle Burgers  |[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                                                                                   |
+  | Maqloubeh             |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)<br />[Recipe](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)|
+  | Cherry  Soda          |[Youtube](https://www.youtube.com/watch?v=mYqPnMD8_04)|
 
 </details>
 
 <details>
-<summary>Restaurants</summary>
+  <summary>Restaurants</summary>
 
-| Restaurant |Location    |Description                                                                                                                                 |score? |
-|--------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------|
-| RVR          | Venice, CA         | Izakaya, Ramen, Cocktails, [SITE](https://www.rvr.la/), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |-      |
-| Kato         | DT Los Angeles, CA | Taiwanese, Seafood, [SITE](https://www.katorestaurant.com/locationandhours), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)|-      |
-| Komal        | DT Los Angeles, CA | Mexican, [SITE](https://www.mercadolapaloma.com/komal), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |A-     |
-| Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      |
-| Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      |
-| Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      |
+  | Restaurant |Location    |Description                                                                                                                                 |score? |
+  |--------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------|
+  | RVR          | Venice, CA         | Izakaya, Ramen, Cocktails, [SITE](https://www.rvr.la/), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |-      |
+  | Kato         | DT Los Angeles, CA | Taiwanese, Seafood, [SITE](https://www.katorestaurant.com/locationandhours), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)|-      |
+  | Komal        | DT Los Angeles, CA | Mexican, [SITE](https://www.mercadolapaloma.com/komal), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |A-     |
+  | Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      |
+  | Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      |
+  | Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      |
  
 </details>
 
 <details>
-<summary>Clothes</summary>
+  <summary>Clothes</summary>
 
-|Clothes  👀                               |                                                                                                                                          |Images  |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------|
-|[Wonder Looper](https://wonderlooper.com/)|[Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)<br/>[Rib Pile Foxfibre® Socks]()|![green henley](https://wonderlooper.com/cdn/shop/files/Wonderlooper69197a4a2438f769197a4a245fa.0537722869197a4a245fa.jpg?v=1783407948)<br />![Foxfibre socks](https://wonderlooper.com/cdn/shop/files/Wonderlooper6a0af1223796436a0af12237bfd.668872456a0af12237bfd.jpg?v=1779102088)|
-|[Quince](https://www.quince.com/)         |[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|![Olive Cashmere Sweater](https://images.quince.com/5aElRjk2sgXh3ZW0QnaBFA/7b657d5a3d57606ecd9e14e6fb612f7d/M-HKT-2-OLITWI-04_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)<br />![Navy Zipper Sweater](https://images.quince.com/4Z4kuG60BKndBKFKaSmgNe/a5107c78bdc07c6b091f50f93f683112/M-SWT-66-TNVY_2243_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)|
-|[The Iron Snail](https://theironsnail.us/)|[Youtube](https://www.youtube.com/@TheIronSnail)                                                                                           |       |
-|Making Eyeware Project                    | [Bespoke TY](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8)              |       |
-
-</details>
-
-<details>
-<summary>To Buy/ Gift Ideas</summary>
-
-|👀 👀                | Description                | Links                                                                                                              |Image       |
-|--------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|------------|
-|Swingtop Lighter    | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|![lighter](https://craighill.co/cdn/shop/files/Swingtop_Lighter_0803_260707_v2.jpg?v=1786722079&width=160)|
-|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |![Rangers Core Set](https://okxleekxriptfrdarxdq.supabase.co/storage/v1/render/image/public/images/games/EAR/0f936ba4-0373-4d5e-84d6-87f5dc6d4f05?width=160&quality=75&resize=contain)|
-|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |![Perfect Edition Set](https://m.media-amazon.com/images/I/71Dj9K2VGgL._AC_UY436_QL65_.jpg)|
-|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![Billy Bat Vol 1](https://m.media-amazon.com/images/I/81GrS9kDKmL._AC_UY436_QL65_.jpg)|
-|Keychron Nape.      | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![Nape](https://www.keychron.com/cdn/shop/files/Keychron-Nape-Pro-Wireless-Trackball-Mouse-Black.png?v=1784538926&width=160)|
+  |Clothes  👀                               |                                                                                                                                          |Images  |
+  |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------|
+  |[Wonder Looper](https://wonderlooper.com/)|[Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)<br/>[Rib Pile Foxfibre® Socks]()|![green henley](https://wonderlooper.com/cdn/shop/files/Wonderlooper69197a4a2438f769197a4a245fa.0537722869197a4a245fa.jpg?v=1783407948)<br />![Foxfibre socks](https://wonderlooper.com/cdn/shop/files/Wonderlooper6a0af1223796436a0af12237bfd.668872456a0af12237bfd.jpg?v=1779102088)|
+  |[Quince](https://www.quince.com/)         |[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|![Olive Cashmere Sweater](https://images.quince.com/5aElRjk2sgXh3ZW0QnaBFA/7b657d5a3d57606ecd9e14e6fb612f7d/M-HKT-2-OLITWI-04_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)<br />![Navy Zipper Sweater](https://images.quince.com/4Z4kuG60BKndBKFKaSmgNe/a5107c78bdc07c6b091f50f93f683112/M-SWT-66-TNVY_2243_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)|
+  |[The Iron Snail](https://theironsnail.us/)|[Youtube](https://www.youtube.com/@TheIronSnail)                                                                                           |       |
+  |Making Eyeware Project                    | [Bespoke TY](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8)              |       |
 
 </details>
 
 <details>
-<summary>....But Maybe?</summary>
+  <summary>To Buy/ Gift Ideas</summary>
 
-![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNvZTV1bGlvanBwNTF6Zm1tdHQ2ZXd1MmxpYWhzMGN6NHljdTRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fXJyMfUdqVCMPAnPJM/giphy.gif)
+  |👀 👀                | Description                | Links                                                                                                              |Image       |
+  |--------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|------------|
+  |Swingtop Lighter    | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|![lighter](https://craighill.co/cdn/shop/files/Swingtop_Lighter_0803_260707_v2.jpg?v=1786722079&width=160)|
+  |Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |![Rangers Core Set](https://okxleekxriptfrdarxdq.supabase.co/storage/v1/render/image/public/images/games/EAR/0f936ba4-0373-4d5e-84d6-87f5dc6d4f05?width=160&quality=75&resize=contain)|
+  |20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |![Perfect Edition Set](https://m.media-amazon.com/images/I/71Dj9K2VGgL._AC_UY436_QL65_.jpg)|
+  |Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![Billy Bat Vol 1](https://m.media-amazon.com/images/I/81GrS9kDKmL._AC_UY436_QL65_.jpg)|
+  |Keychron Nape.      | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![Nape](https://www.keychron.com/cdn/shop/files/Keychron-Nape-Pro-Wireless-Trackball-Mouse-Black.png?v=1784538926&width=160)|
 
-|Probably not for me     |                                                                                                                                                               |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|EUC - Electric Unicycles|[VIDEO](https://www.youtube.com/watch?v=2Dliz9Q767M)<br />[Nosfet Xeno](https://ewheels.com/products/nosfet-xeno-2-200wh-battery-2-200w-motor-20-80-90-14-tire)|
-|Steam Frame VR Headset  |[OFFICIAL SITE](https://store.steampowered.com/sale/steamframe)                                                                                                |
+</details>
+
+<details>
+  <summary>....But Maybe?</summary>
+
+  ![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNvZTV1bGlvanBwNTF6Zm1tdHQ2ZXd1MmxpYWhzMGN6NHljdTRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fXJyMfUdqVCMPAnPJM/giphy.gif)
+
+  |Probably not for me     |                                                                                                                                                               |
+  |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |EUC - Electric Unicycles|[VIDEO](https://www.youtube.com/watch?v=2Dliz9Q767M)<br />[Nosfet Xeno](https://ewheels.com/products/nosfet-xeno-2-200wh-battery-2-200w-motor-20-80-90-14-tire)|
+  |Steam Frame VR Headset  |[OFFICIAL SITE](https://store.steampowered.com/sale/steamframe)                                                                                                |
 
 </details>
 <!--
@@ -152,4 +158,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TrunkOfUkuleles)](https://github.com/stats-organization/github-stats-extended)
 (setq markdown-css-paths '("src/Style.css"))-->
