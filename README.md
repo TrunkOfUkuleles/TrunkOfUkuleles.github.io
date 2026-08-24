@@ -75,6 +75,7 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | White Castle Burgers  |[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                                                                                   |
 | Maqloubeh             |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)<br />[Recipe](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)|
+| Cherry  Soda          |[Youtube](https://www.youtube.com/watch?v=mYqPnMD8_04)|
 
 </details>
 
@@ -95,22 +96,37 @@ I am looking for fulltime employment (who isn't these days) in Los Angeles or re
 <details>
 <summary>Clothes</summary>
 
-|Clothes  👀     |                                                                                                                                          |
-|----------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|Clothes  👀                               |                                                                                                                                          |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 |[Wonder Looper](https://wonderlooper.com/)|[Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)<br />[Knit Cap](https://wonderlooper.com/collections/accessories/products/knit-cap-yak-organic-cotton)|
-|[Quince](https://www.quince.com/)|[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|
+|[Quince](https://www.quince.com/)         |[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|
+|[The Iron Snail](https://theironsnail.us/)|[Youtube](https://www.youtube.com/@TheIronSnail)                                                                             |
+|Making Eyeware Project                    | [Bespoke TY](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8)|
 
 </details>
 
 <details>
 <summary>To Buy/ Gift Ideas</summary>
 
-|👀 👀                | Description                | Links                                                                                        |
-|--------------------|----------------------------|----------------------------------------------------------------------------------------------|
-|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                       |
-|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C) |
-|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)        |
-|Keychron Nape.      | Keyboard (~$90)            |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)|
+|👀 👀                | Description                | Links                                                                                                              |
+|--------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|
+|Swingtop Lighter    | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|
+|Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |
+|20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |
+|Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |
+|Keychron Nape.      | Keyboard (~$90)            |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |
+|Steam Frame         | VR Headset                 | |
+
+</details>
+
+<details>
+<summary>....But Maybe?</summary>
+
+![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNvZTV1bGlvanBwNTF6Zm1tdHQ2ZXd1MmxpYWhzMGN6NHljdTRjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fXJyMfUdqVCMPAnPJM/giphy.gif)
+
+|Probably not for me     |                                                                                                                                                               |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|EUC - Electric Unicycles|[VIDEO](https://www.youtube.com/watch?v=2Dliz9Q767M)<br />[Nosfet Xeno](https://ewheels.com/products/nosfet-xeno-2-200wh-battery-2-200w-motor-20-80-90-14-tire)|
 
 </details>
 <!--
