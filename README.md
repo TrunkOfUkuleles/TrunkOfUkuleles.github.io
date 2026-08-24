@@ -73,35 +73,35 @@
 ### Other Projects
   - Home Secuirty
     - [x] Proxmox
-    - [ ] Opnsense
-    - [x] Ad Guard / Pie Hole
-    - [ ] Alexa --> Home Assistant [Zigby / Matter?]
+    - [ ] OPNsense
+    - [x] AdGuard / Pi-Hole
+    - [ ] Alexa --> Home Assistant [Zigbee / Thread / Z-Wave ?]
 
   - 3D Printing
     - [x] FDM Printer (Elegoo)
     - [x] Orca Slicer
-    - [x] OpnCad
-    - [ ] Scanner?
+    - [x] OpenSCAD
+    - [ ] 3D Scanner?
     - [ ] Mask Cover Mount
-      - [ ] Scan Models, Clean up
+      - [ ] Scan draft cast, Clean up
       - [ ] Practice Joinery
 
 
 ### 🌱 Exploring Interests
 
 <details>
-  <summary>Food to Try</summary>
+  <summary>Food to Make</summary>
 
   | Food                  |                                                                                                                                         |
   |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
   | White Castle Burgers  |[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                                                                                   |
   | Maqloubeh             |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)<br />[Recipe](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)|
-  | Cherry  Soda          |[Youtube](https://www.youtube.com/watch?v=mYqPnMD8_04)|
+  | Cherry Soda          |[Youtube](https://www.youtube.com/watch?v=mYqPnMD8_04)|
 
 </details>
 
 <details>
-  <summary>Restaurants</summary>
+  <summary>Restaurants in LA</summary>
 
   | Restaurant |Location    |Description                                                                                                                                 |score? |
   |--------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------|
@@ -129,13 +129,14 @@
 <details>
   <summary>To Buy/ Gift Ideas</summary>
 
-  |👀 👀                | Description                | Links                                                                                                              |Image       |
-  |--------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|------------|
-  |Swingtop Lighter    | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|![lighter](https://craighill.co/cdn/shop/files/Swingtop_Lighter_0803_260707_v2.jpg?v=1786722079&width=160)|
-  |Earthborne Rangers  | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |![Rangers Core Set](https://okxleekxriptfrdarxdq.supabase.co/storage/v1/render/image/public/images/games/EAR/0f936ba4-0373-4d5e-84d6-87f5dc6d4f05?width=160&quality=75&resize=contain)|
-  |20th Century Boys   | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |![Perfect Edition Set](https://m.media-amazon.com/images/I/71Dj9K2VGgL._AC_UY436_QL65_.jpg)|
-  |Billy Bat           | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![Billy Bat Vol 1](https://m.media-amazon.com/images/I/81GrS9kDKmL._AC_UY436_QL65_.jpg)|
-  |Keychron Nape.      | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![Nape](https://www.keychron.com/cdn/shop/files/Keychron-Nape-Pro-Wireless-Trackball-Mouse-Black.png?v=1784538926&width=160)|
+  |👀 👀                  | Description                | Links                                                                                                              |Image       |
+  |----------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------|------------|
+  |Swingtop Lighter      | Craighill Lighter ($78)    |[OFFICIAL STORE](https://craighill.co/products/swingtop-lighter), [VIDEO](https://www.youtube.com/shorts/fq4zaH04slU)|![lighter](https://craighill.co/cdn/shop/files/Swingtop_Lighter_0803_260707_v2.jpg?v=1786722079&width=160)|
+  |Earthborne Rangers.   | Board Game (~$100)         |[OFFICIAL STORE](https://www.teamcovenant.com/games/earthborne-rangers)                                              |![Rangers Core Set](https://okxleekxriptfrdarxdq.supabase.co/storage/v1/render/image/public/images/games/EAR/0f936ba4-0373-4d5e-84d6-87f5dc6d4f05?width=160&quality=75&resize=contain)|
+  |20th Century Boys     | Comix (~$200)              |[FULL COLLECTION](https://www.amazon.com/20th-Century-Boys-Complete-Collection/dp/B0B3DB4Q3C)                        |![Perfect Edition Set](https://m.media-amazon.com/images/I/71Dj9K2VGgL._AC_UY436_QL65_.jpg)|
+  |Billy Bat             | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![Billy Bat Vol 1](https://m.media-amazon.com/images/I/81GrS9kDKmL._AC_UY436_QL65_.jpg)|
+  |Keychron Nape.        | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![Nape](https://www.keychron.com/cdn/shop/files/Keychron-Nape-Pro-Wireless-Trackball-Mouse-Black.png?v=1784538926&width=160)|
+  |Dune (Gale Force Nine)| Board Game (~$52)          |[GEEK Market](https://boardgamegeek.com/market/product/4038437)                                                      |![Dune 2019](https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__itemrep@2x/img/ZsDXzpzkk7nPzYHGfvUesFV20Mc=/fit-in/492x600/filters:strip_icc()/pic4815198.jpg)|
 
 </details>
 
