@@ -120,11 +120,13 @@
 
   |Title | Link | Cover |
   |---|---|---|
-  |Johnny Mnemonic| | | |
-  |Strange Days| | | |
-  |Pemda's Fen| | | |
-  |Sneakers| | | |
-  |Pluribus| | | |
+  |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover]() |
+  |Strange Days|[IMDB](https://www.imdb.com/title/tt0114558/) |![cover]() |
+  |Penda's Fen|[MOVIE](https://www.youtube.com/watch?v=oGL6eFHWefs) |![cover]() | 
+  |Sneakers|[IMDB](https://www.imdb.com/title/tt0105435) |![cover]() | 
+  |Stalker|[IMDB](https://www.imdb.com/title/tt0079944/) |![cover]() | 
+  |Waking Life|[IMDB](https://www.imdb.com/title/tt0243017/) |![cover]() | 
+  |Pluribus (TV)|[IMDB](https://www.imdb.com/title/tt22202452/) |![cover]() | 
 
 </details>
 
