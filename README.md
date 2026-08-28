@@ -111,6 +111,7 @@
   | Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      |
   | Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      |
   | Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      |
+  | Danbi | K-Town, CA | Korean Dining | [SITE](https://danbi-la.com/)|- |
  
 </details>
 
