@@ -120,7 +120,7 @@
 
   |Title | Link | Cover |
   |---|---|---|
-  |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover](https://i5.walmartimages.com/seo/Posterazzi-MOVIF1378-Johnny-Mnemonic-Movie-Poster-27-x-40-in_c1c59eca-08a0-4f9b-b4e9-28aced7eec90.0c9db1704f7f6ca37017f7c559cba741.jpeg) |
+  |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover](/src/components/Johnny.jpg) |
   |Strange Days|[IMDB](https://www.imdb.com/title/tt0114558/) |![cover](https://m.media-amazon.com/images/I/61rKBGFbK5L._AC_UF894,1000_QL80_AIweblab1381794,T1_.jpg) |
   |Penda's Fen|[MOVIE](https://www.youtube.com/watch?v=oGL6eFHWefs) |![cover](https://media.themoviedb.org/t/p/w440_and_h660_face/pKRibTfH0YgKbE3wVAKhhOWH9AZ.jpg) | 
   |Sneakers|[IMDB](https://www.imdb.com/title/tt0105435) |![cover](https://i.ebayimg.com/images/g/dVwAAOSwXeJYCrlu/s-l400.jpg) | 
