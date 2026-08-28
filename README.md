@@ -120,13 +120,13 @@
 
   |Title | Link | Cover |
   |---|---|---|
-  |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover]() |
-  |Strange Days|[IMDB](https://www.imdb.com/title/tt0114558/) |![cover]() |
-  |Penda's Fen|[MOVIE](https://www.youtube.com/watch?v=oGL6eFHWefs) |![cover]() | 
-  |Sneakers|[IMDB](https://www.imdb.com/title/tt0105435) |![cover]() | 
-  |Stalker|[IMDB](https://www.imdb.com/title/tt0079944/) |![cover]() | 
+  |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover](https://i5.walmartimages.com/seo/Posterazzi-MOVIF1378-Johnny-Mnemonic-Movie-Poster-27-x-40-in_c1c59eca-08a0-4f9b-b4e9-28aced7eec90.0c9db1704f7f6ca37017f7c559cba741.jpeg) |
+  |Strange Days|[IMDB](https://www.imdb.com/title/tt0114558/) |![cover](https://m.media-amazon.com/images/I/61rKBGFbK5L._AC_UF894,1000_QL80_AIweblab1381794,T1_.jpg) |
+  |Penda's Fen|[MOVIE](https://www.youtube.com/watch?v=oGL6eFHWefs) |![cover](https://media.themoviedb.org/t/p/w440_and_h660_face/pKRibTfH0YgKbE3wVAKhhOWH9AZ.jpg) | 
+  |Sneakers|[IMDB](https://www.imdb.com/title/tt0105435) |![cover](https://i.ebayimg.com/images/g/dVwAAOSwXeJYCrlu/s-l400.jpg) | 
+  |Stalker|[IMDB](https://www.imdb.com/title/tt0079944/) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwpGZmGHuWcRtIMsiq5TZu_ZMElLkrWBdmrjTX6C2rgc9iWvfwb-oL28&s=10) | 
   |Waking Life|[IMDB](https://www.imdb.com/title/tt0243017/) |![cover](https://duckduckgo.com/i/bc64d55e9c5c4edb.jpg) | 
-  |Pluribus (TV)|[IMDB](https://www.imdb.com/title/tt22202452/) |![cover]() | 
+  |Pluribus (TV)|[IMDB](https://www.imdb.com/title/tt22202452/) |![cover](https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg) | 
 
 </details>
 
@@ -139,7 +139,7 @@
   |[Quince](https://www.quince.com/)         |[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/><br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|![Olive Cashmere Sweater](https://images.quince.com/5aElRjk2sgXh3ZW0QnaBFA/7b657d5a3d57606ecd9e14e6fb612f7d/M-HKT-2-OLITWI-04_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)<br />![Navy Zipper Sweater](https://images.quince.com/4Z4kuG60BKndBKFKaSmgNe/a5107c78bdc07c6b091f50f93f683112/M-SWT-66-TNVY_2243_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)|
   |[The Iron Snail](https://theironsnail.us/)|[Youtube](https://www.youtube.com/@TheIronSnail)                                                                                           |       |
   |Eyeware Project                    | [Bespoke TY](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8)              |       |
-
+ 
 </details>
 
 <details>
