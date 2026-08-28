@@ -104,14 +104,14 @@
   <summary>Restaurants in LA</summary>
 
   | Restaurant |Location    |Description                                                                                                                                 |score? |
-  |--------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------|
-  | RVR          | Venice, CA         | Izakaya, Ramen, Cocktails, [SITE](https://www.rvr.la/), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |-      |
-  | Kato         | DT Los Angeles, CA | Taiwanese, Seafood, [SITE](https://www.katorestaurant.com/locationandhours), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)|-      |
-  | Komal        | DT Los Angeles, CA | Mexican, [SITE](https://www.mercadolapaloma.com/komal), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |A-     |
-  | Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      |
-  | Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      |
-  | Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      |
-  | Danbi | K-Town, CA | Korean Fine Dining, [SITE](https://danbi-la.com/)|- |
+  |--------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------|------|
+  | RVR          | Venice, CA         | Izakaya, Ramen, Cocktails, [SITE](https://www.rvr.la/), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |-      | |
+  | Kato         | DT Los Angeles, CA | Taiwanese, Seafood, [SITE](https://www.katorestaurant.com/locationandhours), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)|-      | |
+  | Komal        | DT Los Angeles, CA | Mexican, [SITE](https://www.mercadolapaloma.com/komal), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |A-     | |
+  | Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      | |
+  | Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      | |
+  | Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      | |
+  | Danbi | K-Town, CA | Korean Fine Dining, [SITE](https://danbi-la.com/)|- |![Sashimi noodles](https://danbi-la.com/images/mag/feat-spicynoodle.webp&width=200)
  
 </details>
 
