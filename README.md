@@ -103,7 +103,7 @@
 <details>
   <summary>Restaurants in LA</summary>
 
-  | Restaurant |Location    |Description                                                                                                                                 |score? |
+  | Restaurant |Location    |Description                                                                                                                                 |score? |Pic |
   |--------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------|------|
   | RVR          | Venice, CA         | Izakaya, Ramen, Cocktails, [SITE](https://www.rvr.la/), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)                     |-      | |
   | Kato         | DT Los Angeles, CA | Taiwanese, Seafood, [SITE](https://www.katorestaurant.com/locationandhours), [S3 Vid](https://www.youtube.com/watch?v=ebiOEZdlJYg)|-      | |
