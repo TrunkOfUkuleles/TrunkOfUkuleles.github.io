@@ -125,7 +125,7 @@
   |Penda's Fen|[MOVIE](https://www.youtube.com/watch?v=oGL6eFHWefs) |![cover]() | 
   |Sneakers|[IMDB](https://www.imdb.com/title/tt0105435) |![cover]() | 
   |Stalker|[IMDB](https://www.imdb.com/title/tt0079944/) |![cover]() | 
-  |Waking Life|[IMDB](https://www.imdb.com/title/tt0243017/) |![cover]() | 
+  |Waking Life|[IMDB](https://www.imdb.com/title/tt0243017/) |![cover](https://duckduckgo.com/i/bc64d55e9c5c4edb.jpg) | 
   |Pluribus (TV)|[IMDB](https://www.imdb.com/title/tt22202452/) |![cover]() | 
 
 </details>
