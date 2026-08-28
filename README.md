@@ -119,12 +119,12 @@
   <summary>Movies and Shows to watch</summary>
 
   |Title | Link | Cover |
-  |---|---|
-  |Johnny Mnemonic| |
-  |Strange Days| |
-  |Pemda's Fen| |
-  |Sneakers| |
-  |Pluribus| |
+  |---|---|---|
+  |Johnny Mnemonic| | | |
+  |Strange Days| | | |
+  |Pemda's Fen| | | |
+  |Sneakers| | | |
+  |Pluribus| | | |
 
 </details>
 
