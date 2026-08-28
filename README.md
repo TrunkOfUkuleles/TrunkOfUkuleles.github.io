@@ -111,8 +111,21 @@
   | Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      | |
   | Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      | |
   | Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      | |
-  | Danbi | K-Town, CA | Korean Fine Dining, [SITE](https://danbi-la.com/)|- |![Sashimi noodles](https://danbi-la.com/images/mag/feat-spicynoodle.webp)
+  | Danbi | K-Town, CA | Korean Fine Dining, [SITE](https://danbi-la.com/)|- |![Sashimi noodles](https://danbi-la.com/images/mag/feat-spicynoodle.webp')
  
+</details>
+
+<details>
+  <summary>Movies and Shows to watch</summary>
+
+  |Title | Link | Cover |
+  |---|---|
+  |Johnny Mnemonic| |
+  |Strange Days| |
+  |Pemda's Fen| |
+  |Sneakers| |
+  |Pluribus| |
+
 </details>
 
 <details>
