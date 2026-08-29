@@ -153,7 +153,7 @@
   |Billy Bat             | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![Billy Bat Vol 1](https://m.media-amazon.com/images/I/81GrS9kDKmL._AC_UY436_QL65_.jpg)|
   |Keychron Nape.        | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![Nape](https://www.keychron.com/cdn/shop/files/Keychron-Nape-Pro-Wireless-Trackball-Mouse-Black.png?v=1784538926&width=160)|
   |Dune (Gale Force Nine)| Board Game (~$52)          |[GEEK Market](https://boardgamegeek.com/market/product/4038437)                                                      |![Dune 2019](https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__itemrep@2x/img/ZsDXzpzkk7nPzYHGfvUesFV20Mc=/fit-in/492x600/filters:strip_icc()/pic4815198.jpg)|
-  |ohSnap Wallet 2     | Wallet (~$60-75)     |[KICKSTARTER](https://www.kickstarter.com/projects/ohsnapofficial/ohsnap-wallet-2-couldnt-carry-less/rewards)|, [VIDEO](https://www.youtube.com/watch?v=LN0THWrFwkw) |![Burlwood Cover](https://i.kickstarter.com/assets/054/826/507/3f0bc72046f2944b6176df2ce1e8d2ea_original.png?fit=scale-down&origin=ugc&q=100&v=1787242972&width=680&sig=S%2FfUUVkFFvFX6b2lPuuBnN%2Fxt3d53QEhQxz3mOEZW%2Bc%3D)|
+  |ohSnap Wallet 2     | Wallet (~$60-75)     |[KICKSTARTER](https://www.kickstarter.com/projects/ohsnapofficial/ohsnap-wallet-2-couldnt-carry-less/rewards)|, [VIDEO](https://www.youtube.com/watch?v=LN0THWrFwkw) |![generic poster](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUd3I8X3ko-5gCMX6vuc1XOVSbAeEwKhx3SMXPuffUA&s)|
 
 </details>
 
