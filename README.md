@@ -96,7 +96,7 @@
   |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---|
   | White Castle Burgers  |[Youtube](https://www.youtube.com/watch?v=ITGoELbkmok)                                                                                   |![sliders](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxF-H1cZMnYLhTFWADVO4RWEIc_v9oEUtaBeuzTZB1g&s) |
   | Maqloubeh             |[Youtube](https://www.youtube.com/watch?v=2p2BsosYFoU)<br />[Recipe](https://waleedasadi.com/p/my-favorite-dish-in-the-world-palestinian)| ![heaping](https://substackcdn.com/image/fetch/$s_!hF7v!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25ea2554-99bd-4c81-8aa0-83164a81fdbc_1920x1080.jpeg)|
-  | Cherry Soda          |[Youtube](https://www.youtube.com/watch?v=mYqPnMD8_04)| ![how to drink banner](https://yt3.googleusercontent.com/WJn8kdd1aHmp679CtzH2sScUlcIQ_OE2Jn4kPUvtXXUsZzF-NNgjjgzduAJ0qOhbTizErhc=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)|
+  | Cherry Soda          |[Youtube](https://www.youtube.com/watch?v=mYqPnMD8_04), <br><br> [Benzaldehyde](https://shop.perfumersapprentice.com/p-9521-benzaldehyde-50-in-bb.aspx) | ![how to drink banner](https://yt3.googleusercontent.com/WJn8kdd1aHmp679CtzH2sScUlcIQ_OE2Jn4kPUvtXXUsZzF-NNgjjgzduAJ0qOhbTizErhc=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)|
 
 </details>
 
