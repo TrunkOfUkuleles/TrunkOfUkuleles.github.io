@@ -111,7 +111,7 @@
   | Found Oyster | East Hollywood, CA | Seafood, Oysters,Lobster Rolls, [SITE](https://www.foundoyster.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)       |-      | |
   | Restaurant Ki| Little Tokyo, CA   | Korean, Faaaancy, [SITE](https://restaurants.kaneyoshi.us/ki.html), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)         |-      | |
   | Bar Benjamin | Melrose, CA        | Art Deco-inspired cocktail lounge, [SITE](https://www.barbenjamin.com/), [S3 Vid](https://www.youtube.com/watch?v=3TxmvIW7mgM)    |-      | |
-  | Danbi | K-Town, CA | Korean Fine Dining, [SITE](https://danbi-la.com/)|- |![Sashimi noodles](https://danbi-la.com/images/mag/feat-spicynoodle.webp')
+  | Danbi | K-Town, CA | Korean Fine Dining, [SITE](https://danbi-la.com/)|- |![Sashimi noodles](https://danbi-la.com/images/mag/feat-spicynoodle.webp)
  
 </details>
 
@@ -138,7 +138,7 @@
   |[Wonder Looper](https://wonderlooper.com/)|[Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)<br/><br />[Rib Pile Foxfibre® Socks]()|![green henley](https://wonderlooper.com/cdn/shop/files/Wonderlooper69197a4a2438f769197a4a245fa.0537722869197a4a245fa.jpg?v=1783407948&width=200)<br />![Foxfibre socks](https://wonderlooper.com/cdn/shop/files/Wonderlooper6a0af1223796436a0af12237bfd.668872456a0af12237bfd.jpg?v=1779102088&width=200)|
   |[Quince](https://www.quince.com/)         |[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/><br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|![Olive Cashmere Sweater](https://images.quince.com/5aElRjk2sgXh3ZW0QnaBFA/7b657d5a3d57606ecd9e14e6fb612f7d/M-HKT-2-OLITWI-04_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)<br />![Navy Zipper Sweater](https://images.quince.com/4Z4kuG60BKndBKFKaSmgNe/a5107c78bdc07c6b091f50f93f683112/M-SWT-66-TNVY_2243_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)|
   |[The Iron Snail](https://theironsnail.us/)|[Youtube](https://www.youtube.com/@TheIronSnail)                                                                                           | ![logo](https://yt3.googleusercontent.com/4it1i-QPQrbbaoXh0RgBgQ3naoRaZdxnTwaDG6vy6viAOG2cpSNA2NlhaCS--8mIiDKvkBrf9Q=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)      |
-  |Eyeware Project                    | [Bespoke TY](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8) <br> -tint? Chromatic? Flash?| ![fancy glasses](https://www.matsuda.com/cdn/shop/files/matsuda-sunglass-m3152-rtm-48-pedestal.jpg?v=1740410751&width=200)     |
+  |Eyeware Project           | [Bespoke YT](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8) <br> -tint? Chromatic? Flash?| ![fancy glasses](https://www.matsuda.com/cdn/shop/files/matsuda-sunglass-m3152-rtm-48-pedestal.jpg?v=1740410751&width=200)     |
  
 </details>
 
