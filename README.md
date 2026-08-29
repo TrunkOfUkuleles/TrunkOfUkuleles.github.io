@@ -120,8 +120,8 @@
 
   |Title | Link | Cover |
   |---|---|---|
-  |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover](./public/Johnny.jpg) |
-  |Strange Days|[IMDB](https://www.imdb.com/title/tt0114558/) |![cover](https://m.media-amazon.com/images/I/61rKBGFbK5L._AC_UF894,1000_QL80_AIweblab1381794,T1_.jpg) |
+  |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlgXzFhK2hpitJUbg9bxsLOX_5TH0gQEwwQvLxYet2g&s) |
+  |Strange Days|[IMDB](https://www.imdb.com/title/tt0114558/) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxx1LnvBiL1LLAKP1KpEz4wdINDMuCKhxs9hlWCK_hzw&s) |
   |Penda's Fen|[MOVIE](https://www.youtube.com/watch?v=oGL6eFHWefs) |![cover](https://media.themoviedb.org/t/p/w440_and_h660_face/pKRibTfH0YgKbE3wVAKhhOWH9AZ.jpg) | 
   |Sneakers|[IMDB](https://www.imdb.com/title/tt0105435) |![cover](https://i.ebayimg.com/images/g/dVwAAOSwXeJYCrlu/s-l400.jpg) | 
   |Stalker|[IMDB](https://www.imdb.com/title/tt0079944/) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwpGZmGHuWcRtIMsiq5TZu_ZMElLkrWBdmrjTX6C2rgc9iWvfwb-oL28&s=10) | 
@@ -137,8 +137,8 @@
   |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------|
   |[Wonder Looper](https://wonderlooper.com/)|[Henely](https://wonderlooper.com/collections/henley/products/long-sleeve-henley-cashmere-blend-honeycomb-2)<br/><br />[Rib Pile Foxfibre® Socks]()|![green henley](https://wonderlooper.com/cdn/shop/files/Wonderlooper69197a4a2438f769197a4a245fa.0537722869197a4a245fa.jpg?v=1783407948&width=200)<br />![Foxfibre socks](https://wonderlooper.com/cdn/shop/files/Wonderlooper6a0af1223796436a0af12237bfd.668872456a0af12237bfd.jpg?v=1779102088&width=200)|
   |[Quince](https://www.quince.com/)         |[Cashmere Sweater](https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=olive-twist&gender=men)<br/><br/>[Cashmere Zip Sweater](https://www.quince.com/men/mongolian-cashmere-fisherman-full-zip-sweater?color=true-navy&gender=men)|![Olive Cashmere Sweater](https://images.quince.com/5aElRjk2sgXh3ZW0QnaBFA/7b657d5a3d57606ecd9e14e6fb612f7d/M-HKT-2-OLITWI-04_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)<br />![Navy Zipper Sweater](https://images.quince.com/4Z4kuG60BKndBKFKaSmgNe/a5107c78bdc07c6b091f50f93f683112/M-SWT-66-TNVY_2243_EDITED.jpg?w=200&q=50&h=250&fm=webp&reqOrigin=website-ssr)|
-  |[The Iron Snail](https://theironsnail.us/)|[Youtube](https://www.youtube.com/@TheIronSnail)                                                                                           |       |
-  |Eyeware Project                    | [Bespoke TY](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8)              |       |
+  |[The Iron Snail](https://theironsnail.us/)|[Youtube](https://www.youtube.com/@TheIronSnail)                                                                                           | ![logo](https://yt3.googleusercontent.com/4it1i-QPQrbbaoXh0RgBgQ3naoRaZdxnTwaDG6vy6viAOG2cpSNA2NlhaCS--8mIiDKvkBrf9Q=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)      |
+  |Eyeware Project                    | [Bespoke TY](https://www.youtube.com/watch?v=QQt4NyzkMH8)<br />[Lens Colors YT](https://www.youtube.com/watch?v=IBTrfzVYUZ8)              |  -tint? Chromatic? Flash?     |
  
 </details>
 
@@ -153,6 +153,7 @@
   |Billy Bat             | Comix (~$12 ea)            |[FIRST VOLUME](https://www.amazon.com/Billy-Bat-1-Naoki-Urasawa/dp/1419780085?s=books)                               |![Billy Bat Vol 1](https://m.media-amazon.com/images/I/81GrS9kDKmL._AC_UY436_QL65_.jpg)|
   |Keychron Nape.        | Keyboard/Trackball (~$90)  |[OFFICIAL STORE](https://www.keychron.com/products/keychron-nape-pro-wireless-trackball-mouse)                       |![Nape](https://www.keychron.com/cdn/shop/files/Keychron-Nape-Pro-Wireless-Trackball-Mouse-Black.png?v=1784538926&width=160)|
   |Dune (Gale Force Nine)| Board Game (~$52)          |[GEEK Market](https://boardgamegeek.com/market/product/4038437)                                                      |![Dune 2019](https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__itemrep@2x/img/ZsDXzpzkk7nPzYHGfvUesFV20Mc=/fit-in/492x600/filters:strip_icc()/pic4815198.jpg)|
+  |ohSnap Wallet 2     | Wallet (~$60-75)     |[KICKSTARTER](https://www.kickstarter.com/projects/ohsnapofficial/ohsnap-wallet-2-couldnt-carry-less/rewards)|, [VIDEO](https://www.youtube.com/watch?v=LN0THWrFwkw) |![Burlwood Cover](https://i.kickstarter.com/assets/054/826/507/3f0bc72046f2944b6176df2ce1e8d2ea_original.png?fit=scale-down&origin=ugc&q=100&v=1787242972&width=680&sig=S%2FfUUVkFFvFX6b2lPuuBnN%2Fxt3d53QEhQxz3mOEZW%2Bc%3D)|
 
 </details>
 
