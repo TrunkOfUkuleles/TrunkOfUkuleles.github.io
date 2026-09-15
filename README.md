@@ -122,6 +122,7 @@
   |---|---|---|
   |Johnny Mnemonic|[IMDB](https://www.imdb.com/title/tt0113481/) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlgXzFhK2hpitJUbg9bxsLOX_5TH0gQEwwQvLxYet2g&s) |
   |Strange Days|[IMDB](https://www.imdb.com/title/tt0114558/) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxx1LnvBiL1LLAKP1KpEz4wdINDMuCKhxs9hlWCK_hzw&s) |
+  |Cast a Deadly Spell|[IMDB](https://www.imdb.com/title/tt0101550/)|![cover](https://upload.wikimedia.org/wikipedia/en/4/44/CastaDeadlySpell.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled)|
   |Penda's Fen|[MOVIE](https://www.youtube.com/watch?v=oGL6eFHWefs) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNwKuH1Okwk1kda69gMa1id0xfUiFxn6TUT5uHN5p7iQ&s=10) | 
   |Sneakers|[IMDB](https://www.imdb.com/title/tt0105435) |![cover](https://i.ebayimg.com/images/g/dVwAAOSwXeJYCrlu/s-l400.jpg) | 
   |Stalker|[IMDB](https://www.imdb.com/title/tt0079944/) |![cover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwpGZmGHuWcRtIMsiq5TZu_ZMElLkrWBdmrjTX6C2rgc9iWvfwb-oL28&s=10) | 
